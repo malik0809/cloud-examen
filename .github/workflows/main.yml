@@ -16,4 +16,4 @@ jobs:
          subject: text
          body: text
          contentType: text/html
-         attachments: file://tmp/linesofcode.txt
+         attachments: file://linesofcode.txt
