@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
 jobs:  
   sendmail:
-    runs-on: ubuntu
+    runs-on: ubuntu-22.04
 
     steps:
       - uses: devellany/send-mailer@v1.0.2
